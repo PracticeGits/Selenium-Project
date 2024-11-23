@@ -4,6 +4,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 //sample mobile commit
+//lap commtgi
 public class Sample {
 	public String baseUrl = "http://127.0.0.1:8000/";
 	String driverPath = "D:\\geckodriver.exe";
